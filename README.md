@@ -1,6 +1,6 @@
-# Team-19
-This is Team 19's group project GitHub repository for MGT 6203 (Canvas) Spring of 2023 semester.
+# Solar Energy
+This is Team 19's group project for MGT 6203 Spring of 2023 semester.
 
-Data for this project is available in the DropBox link available in the Data directory.
+This project aims to analyze solar power trends and adoption factors using solar generation data, customer survey responses, and electricity cost data.
 
-There is no need to install anything for this project as the code is hosted in Google Colab. The link to the Colab file as well as a copy of the .ipynb file can be found in the Final Code directory. All of the models can be run directly in the Google Colab Notebook. It will read in the necessary data from the DropBox.
+The notebook file can be found in the Files directory. The code is reading in the necessary data through a DropBox link. Data for this project can be found in the Data directory.
